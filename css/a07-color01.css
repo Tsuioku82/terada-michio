@@ -1,0 +1,4 @@
+html[data-template="A"][data-color="01"]{--paper:#101113;--ink:#faf5ed;--title:#d9dbe0;--accent:#d9dbe0;--card:#181b20;--panel:#22262c;--line:#d9dbe0;--film:rgba(16,17,19,0.92);--on-accent:#101113;color-scheme:dark}
+#chapter-1{--paper:#0a0d10;--ink:#faf5ed;--card:#101316;--panel:#171a1c;--accent:#d9dbe0;--title:#d9dbe0;--line:#93918e;--film:rgba(10,13,16,.95);--on-accent:#0a0d10;background:var(--paper);color:var(--ink)}
+#chapter-2{--paper:#132026;--ink:#faf5ed;--card:#19252b;--panel:#202c31;--accent:#d9dbe0;--title:#d9dbe0;--line:#979997;--film:rgba(19,32,38,.95);--on-accent:#132026;background:var(--paper);color:var(--ink)}
+#chapter-3{--paper:#211416;--ink:#faf5ed;--card:#261a1b;--panel:#2d2022;--accent:#d9dbe0;--title:#d9dbe0;--line:#9d9491;--film:rgba(33,20,22,.95);--on-accent:#211416;background:var(--paper);color:var(--ink)}
